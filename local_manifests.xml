@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="kernel/samsung/msm8930-common" name="Tab-3-snap/android_kernel_samsung_msm8930-common-1" remote="github" revision="cm-14.1" />
+    <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="cm-14.1" />
+    <project path="device/samsung/msm8930-common" name="LineageOS/android_device_samsung_msm8930-common" remote="github" revision="cm-14.1" />
+    <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
+    <project path="device/samsung/lt02ltexx-common" name="Tab-3-snap/android_device_samsung_lt02ltexx-common" remote="github" revision="cm-14.1" />
+    <project path="device/samsung/lt02ltespr" name="Tab-3-snap/android_device_samsung_lt02ltespr" remote="github" revision="cm-14.1" />
+    <project path="device/samsung/lt02ltetmo" name="Tab-3-snap/android_device_samsung_lt02ltetmo" remote="github" revision="cm-14.1" />
+    <project path="vendor/samsung/" name="Tab-3-snap/proprietary_vendor_samsung" remote="github" revision="cm-14.1"/>
+    <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1"/>
+    <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1"/>
+</manifest>
