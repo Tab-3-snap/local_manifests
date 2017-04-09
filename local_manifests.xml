@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="kernel/samsung/msm8930-common" name="Tab-3-snap/android_kernel_samsung_msm8930-common" remote="github" revision="cm-14.1" />
-    <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="cm-14.1" />
-    <project path="device/samsung/msm8930-common" name="LineageOS/android_device_samsung_msm8930-common" remote="github" revision="cm-14.1" />
+    <project path="device/samsung/msm8930-common" name="Tab-3-snap/android_device_samsung_msm8930-common" remote="github" revision="cm-14.1" />
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
     <project path="device/samsung/lt02lte-common" name="Tab-3-snap/android_device_samsung_lt02lte-common" remote="github" revision="cm-14.1" />
